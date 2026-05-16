@@ -9,7 +9,7 @@ This assignment performs complete NLP processing on a PDF file including:
 
 ##  Dataset
 Book used: Pride and Prejudice (Jane Austen)  
-Source: https://www.gutenberg.org/files/1342/1342-pdf.pdf
+Source: https://infobooks.org/book/pride-and-prejudice-jane-austen.pdf
 
 ## ️ How to Run
 1. Install libraries:
